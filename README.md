@@ -2,7 +2,7 @@
 
 * Calculates the height of the scanner.
 
-* In some browsers, problems may occur when using 100vh as the screen height for full-screen work.
+* In some browsers, problems may occur when using **100vh** as the screen height for full-screen work.
 
 ## Function and Usage
 
