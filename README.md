@@ -1,10 +1,10 @@
-# Browser Height
+# Browser Height Calculation
 
 * Calculates the height of the scanner.
 
 * In some browsers, problems may occur when using 100vh as the screen height for full-screen work.
 
-## Height calculation function and usage
+## Function and Usage
 
 **Lang:  `Javascript`**
 ```
